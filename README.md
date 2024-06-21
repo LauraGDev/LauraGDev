@@ -6,7 +6,7 @@ I recently completed my studies in Web Development, marking an exciting new chap
 Now, as a web developer, I am thrilled to combine my creative skills with my love for technology to create innovative and efficient solutions 👩‍💻. I'm always eager to learn and grow, and I'm excited to see where this journey takes me. Feel free to reach out if you have any proposals, interesting projects, or just want to connect.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/laura-gil-cara/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-gil-cara/) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LauraGDev&theme=buefy&hide_border=false)<br/>
